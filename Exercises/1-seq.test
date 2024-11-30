@@ -1,6 +1,6 @@
 ({
   name: 'seq',
-  length: [10, 100],
+  length: [10, 150],
   test: seq => {
     {
       const f1 = x => x + 7;
